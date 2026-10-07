@@ -1,0 +1,3 @@
+[submodule "conectenis"]
+	path = conectenis
+	url = https://github.com/juandaveth/conectenis
