@@ -1,0 +1,32 @@
+{
+  "package.json": {
+    "mtime": 1791381494.3026817,
+    "seen": 1791383845.5066273,
+    "ast_hash": "65becf3d38ab159fe216009a17847d31",
+    "semantic_hash": "65becf3d38ab159fe216009a17847d31"
+  },
+  "src/formatter.js": {
+    "mtime": 1791381091.8976762,
+    "seen": 1791383845.5066302,
+    "ast_hash": "a51ad66e12171198a8358e45b26e4fd7",
+    "semantic_hash": "a51ad66e12171198a8358e45b26e4fd7"
+  },
+  "src/index.js": {
+    "mtime": 1791381405.7567942,
+    "seen": 1791383845.5066314,
+    "ast_hash": "d7526150407b6130550a7e9fdf2316bb",
+    "semantic_hash": "d7526150407b6130550a7e9fdf2316bb"
+  },
+  "src/math.js": {
+    "mtime": 1791381051.440757,
+    "seen": 1791383845.5066319,
+    "ast_hash": "fb3b263b3139b2bd345496eac2bd59ed",
+    "semantic_hash": "fb3b263b3139b2bd345496eac2bd59ed"
+  },
+  "src/user.js": {
+    "mtime": 1791381213.2164268,
+    "seen": 1791383845.5066328,
+    "ast_hash": "f6b4293e0de437801e7cf8b56aa2e74e",
+    "semantic_hash": "f6b4293e0de437801e7cf8b56aa2e74e"
+  }
+}
